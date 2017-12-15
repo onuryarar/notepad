@@ -429,6 +429,26 @@ namespace WindowsFormsApplication15
             Application.Exit();
         }
 
+        private void Notepad_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (open.FileName == "" && saveAs.FileName == "" && richTextBox1.Text != "")
+                yeniSoru();
+            else if (open.FileName != "")
+            {
+                if (textKayit != richTextBox1.Text)
+                    yeniSoru();
+                else
+                    yeniAc();
+            }
+            else if (saveAs.FileName != "")
+            {
+                if (textKayit != richTextBox1.Text)
+                    yeniSoru();
+                else
+                    yeniAc();
+            }
+        }
+
  
     }
 }

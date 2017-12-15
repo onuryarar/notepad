@@ -12,3 +12,18 @@ C:\Users\Netzwerk\Documents\Visual Studio 2013\Projects\notepad\WindowsFormsAppl
 C:\Users\Netzwerk\Documents\Visual Studio 2013\Projects\notepad\WindowsFormsApplication15\obj\Debug\notepad.application
 C:\Users\Netzwerk\Documents\Visual Studio 2013\Projects\notepad\WindowsFormsApplication15\obj\Debug\notepad.exe
 C:\Users\Netzwerk\Documents\Visual Studio 2013\Projects\notepad\WindowsFormsApplication15\obj\Debug\notepad.pdb
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\bin\Debug\notepad.exe.config
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\notepad.exe
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\notepad.pdb
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\bin\Debug\notepad.exe.manifest
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\bin\Debug\notepad.application
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\bin\Debug\notepad.exe
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\bin\Debug\notepad.pdb
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\notepad.csprojResolveAssemblyReference.cache
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.Notepad.resources
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\notepad.Properties.Resources.resources
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\WindowsFormsApplication15.TxtList.resources
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\notepad.csproj.GenerateResource.Cache
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\notepad.TrustInfo.xml
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\notepad.exe.manifest
+C:\Users\Netzwerk\Documents\GitHub\notepad\WindowsFormsApplication15\obj\Debug\notepad.application
