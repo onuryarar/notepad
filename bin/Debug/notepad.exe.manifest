@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="notepad.exe" size="32768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="notepad.exe" size="33280">
       <assemblyIdentity name="notepad" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>km7DHLQBQaQO17WSFBqqnFH0/EtqQy3A60j3n8O8oaQ=</dsig:DigestValue>
+        <dsig:DigestValue>no1pIPCg/fUxTTfB7Sv0lW5UfHA0+gCy6rFiTmXbAg4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

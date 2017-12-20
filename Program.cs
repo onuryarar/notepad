@@ -19,4 +19,4 @@ namespace WindowsFormsApplication15
             Application.Run(new Notepad());
         }
     }
-}
+}//code & design by Onur Yarar (https://github.com/onuryarar)

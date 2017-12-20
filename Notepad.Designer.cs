@@ -209,7 +209,7 @@
             // yazıTipiToolStripMenuItem
             // 
             this.yazıTipiToolStripMenuItem.Name = "yazıTipiToolStripMenuItem";
-            this.yazıTipiToolStripMenuItem.Size = new System.Drawing.Size(138, 26);
+            this.yazıTipiToolStripMenuItem.Size = new System.Drawing.Size(181, 26);
             this.yazıTipiToolStripMenuItem.Text = "Yazı Tipi";
             this.yazıTipiToolStripMenuItem.Click += new System.EventHandler(this.yazıTipiToolStripMenuItem_Click);
             // 

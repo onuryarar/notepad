@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="notepad.exe.manifest" size="5421">
+    <dependentAssembly dependencyType="install" codebase="notepad.exe.manifest" size="4772">
       <assemblyIdentity name="notepad.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>o1VNCeDNl5N3ddkFUrnSCPGPRAQKRWL53j6G/D/b+FY=</dsig:DigestValue>
+        <dsig:DigestValue>RSBpnJn5aBZTpQ1U/iXvE8YDNkyE8N2BfGl7fAmhtJ0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
